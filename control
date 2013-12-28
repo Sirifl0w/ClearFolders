@@ -1,0 +1,9 @@
+Package: com.sirifl0w.clearfolders
+Name: ClearFolders
+Depends: mobilesubstrate, firmware (>= 7.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Transparent iOS 7 folder backgrounds!
+Maintainer: Sirifl0w <sirifl0w@gmail.com>
+Author: Sirifl0w <sirifl0w@gmail.com>
+Section: Tweaks
